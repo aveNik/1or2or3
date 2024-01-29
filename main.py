@@ -1,4 +1,4 @@
-# In computer science classes, we haven't taught try & ext yet, but my knowledge is much greater than that of my classmates))
+# In computer science classes, we haven't taught try & except yet, but my knowledge is much greater than that of my classmates))
 # (We have just started learning if/elif/else)
 
 
